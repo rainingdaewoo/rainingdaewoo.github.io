@@ -16,8 +16,8 @@ author1:
     path:            /assets/me/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            assets/me/me.jpg
-      2x:            assets/me/me.jpg
+      1x:            /assets/me/me.jpg
+      2x:           /assets/me/me.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
